@@ -1,15 +1,6 @@
-Excelente! Ter o código é fundamental para criar um README.md preciso e atraente.
-
-Vamos montar um README.md detalhado e profissional para o seu "Sistema de Gerenciamento Acadêmico". Ele vai destacar as funcionalidades, as tecnologias e, o mais importante, os aprendizados que você teve, alinhando com o que os recrutadores buscam.
-
-Estrutura Sugerida para o README.md do Projeto Acadêmico
-Markdown
-
 # 📚 Sistema de Gerenciamento Acadêmico
 
-Este é um projeto desenvolvido como parte da disciplina de Raciocínio Computacional do curso de Big Data e Inteligência Analítica. Ele simula um sistema de gerenciamento acadêmico básico, permitindo o controle de informações sobre estudantes, professores, disciplinas, turmas e matrículas. O foco principal foi a prática de lógica de programação, persistência de dados e tratamento de cenários de erro.
-
----
+Esse é um projeto desenvolvido como parte da atividade da disciplina de Raciocínio Computacional do curso de Big Data e Inteligência Analítica da PUCPR. Ele simula um sistema de gerenciamento acadêmico básico, permitindo o controle de informações sobre estudantes, professores, disciplinas, turmas e matrículas. O foco principal foi a prática de lógica de programação, persistência de dados e tratamento de cenários de erro.
 
 ## 🎯 Objetivo do Projeto
 
@@ -19,8 +10,6 @@ O principal objetivo foi desenvolver um sistema que pudesse gerenciar entidades 
 * **Validações:** Implementar regras de negócio para manter a integridade dos dados (ex: evitar duplicidades, validar chaves estrangeiras).
 * **Tratamento de Exceções:** Lidar com entradas de usuário inválidas e erros de I/O.
 * **Estrutura de Código:** Praticar organização, modularização e reutilização de funções.
-
----
 
 ## ✨ Funcionalidades
 
@@ -44,8 +33,6 @@ O sistema oferece um menu interativo e as seguintes funcionalidades para cada en
     * **Validações:** Só permite matricular estudantes em turmas existentes e para estudantes existentes.
     * **Chave Composta:** A combinação `(turma, estudante)` é única.
     * **Operações:** Incluir, Listar, Atualizar, Excluir
-
----
 
 ## ⚙️ Arquitetura e Tecnologias
 
